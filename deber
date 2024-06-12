@@ -6,8 +6,7 @@ SELECT AVG(age) AS promedio_edad
 FROM members;
 ```
 ## Captura
-  C:\Users\GATEWAY\Pictures\Screenshots\Captura de pantalla 2024-06-12 131239.png
-
+ https://github.com/enriqueooo/Tareas_DB/blob/main/capturas/Captura%20de%20pantalla%202024-06-12%20121131.png
 ## 2.Obtener la edad mínima de los miembros:
 # Sentencia:
 ```
