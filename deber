@@ -1,6 +1,6 @@
 # Deber semana 9
 ## 1.Obtener la edad promedio de los miembros:
-# Sentencia:
+#  Sentencia:
 ```
 SELECT AVG(age) AS promedio_edad
 FROM members;
