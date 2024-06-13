@@ -14,7 +14,7 @@ SELECT MIN(age) AS edad_minima
 FROM members;
 ```
 ## Captura
-C:\Users\GATEWAY\Pictures\Screenshots\Captura de pantalla 2024-06-12 121231.png
+https://github.com/enriqueooo/Tareas_DB/blob/main/capturas/Captura%20de%20pantalla%202024-06-12%20121231.png
 
 ## 3.Obtener el número total de registros asistidos:
 # Sentencia:
