@@ -23,7 +23,7 @@ SELECT COUNT(*) AS total_registros_asistidos
 FROM attendance;
 ```
 ## Captura
-C:\Users\GATEWAY\Pictures\Screenshots\Captura de pantalla 2024-06-12 121302.png
+https://github.com/enriqueooo/Tareas_DB/blob/main/capturas/Captura%20de%20pantalla%202024-06-12%20121302.png
 
 ## 4.Obtener el número total de asistentes a todas las conferencias
 # Sentencia:
@@ -32,7 +32,7 @@ SELECT COUNT(DISTINCT member_id) AS total_asistentes_unicos
 FROM attendance;
 ```
 ## Captura
-C:\Users\GATEWAY\Pictures\Screenshots\Captura de pantalla 2024-06-12 121341.png
+https://github.com/enriqueooo/Tareas_DB/blob/main/capturas/Captura%20de%20pantalla%202024-06-12%20121341.png
 
   ## 5.Obtener el número total de eventos por cada ciudad:
 # Sentencia:
@@ -42,7 +42,7 @@ FROM events
 GROUP BY city;
 ```
 ## Captura
-C:\Users\GATEWAY\Pictures\Screenshots\Captura de pantalla 2024-06-12 121421.png
+https://github.com/enriqueooo/Tareas_DB/blob/main/capturas/Captura%20de%20pantalla%202024-06-12%20121421.png
 
 ## 6.Obtener el número de registros por cada miembro:
 # Sentencia:
@@ -52,7 +52,7 @@ FROM attendance
 GROUP BY member_id;
 ```
 ## Captura
-C:\Users\GATEWAY\Pictures\Screenshots\Captura de pantalla 2024-06-12 121513.png
+https://github.com/enriqueooo/Tareas_DB/blob/main/capturas/Captura%20de%20pantalla%202024-06-12%20121513.png
 
 ## 7.Obtener el número de registros por cada conferencia:
 # Sentencia:
@@ -62,6 +62,5 @@ FROM attendance
 GROUP BY event_id;
 ```
 ## Captura
-C:\Users\GATEWAY\Pictures\Screenshots\Captura de pantalla 2024-06-12 121644.png
-
+https://github.com/enriqueooo/Tareas_DB/blob/main/capturas/Captura%20de%20pantalla%202024-06-12%20121644.png
 
