@@ -1,6 +1,6 @@
 
 # Tarea semana 10
-## 1.Obtener la edad promedio de los miembros:
+## 1.CREAR UNA VISTA DE FACTURAS CON EL NO,BRE DEL CLIENTE
 # Sentencia:
 ```
 CREATE VIEW invoice_view AS
@@ -9,4 +9,5 @@ FROM invoice i JOIN client c
 ON c.id = i.client_id;
 ```
 ## Captura
+1.png
 
